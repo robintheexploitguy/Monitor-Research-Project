@@ -12,6 +12,6 @@
 **Commands Used:**
 ```powershell
 # Navigate to the project folder
-cd C:\Users\Administrator\Desktop\Monitor-Research-Project
+cd ./Monitor-Research-Project
 # Initialize a new Git repository
 git init
