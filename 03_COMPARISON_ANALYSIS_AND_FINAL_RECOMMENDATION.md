@@ -96,7 +96,6 @@ This report analyzes the three shortlisted monitors (LG, BenQ, and Acer) against
 ---
 
 ## 7. Decision Flowchart
-*(This flowchart is rendered natively by GitHub)*
 
 ```mermaid
 graph TD
