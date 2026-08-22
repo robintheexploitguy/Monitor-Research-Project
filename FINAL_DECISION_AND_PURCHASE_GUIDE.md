@@ -72,5 +72,5 @@ flowchart TD
     G -- No --> I[Buy Lenovo L27-4C]
     F -- No --> J[Avoid Samsung, no speakers]
     J --> I
-    B -- Yes, rich person with 32GB RAM --> K[LG 27U631A]
-    K -- But you are not --> C
+    B -- Yes, rich person with 32+GB RAM --> K[LG 27U631A]
+    K -- But I am not --> C
