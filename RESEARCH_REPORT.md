@@ -37,7 +37,7 @@
 ## 4. Future Upgrade Path (The ₹25k+ Route)
 ```mermaid
 flowchart LR
-    A[Current: 5600G + 16GB RAM] --> B{Buy 1440p 144Hz Monitor (₹25k)}
-    B --> C[Need Dedicated GPU: RTX 4060 (₹26k)]
-    C --> D[Need Better CPU: 5700X3D (₹15k)]
-    D --> E[Total Future Cost: ₹66k]
+    A[Current 5600G and 16GB RAM] --> B[Buy 1440p 144Hz Monitor 25k]
+    B --> C[Need Dedicated GPU RTX 4060 26k]
+    C --> D[Need Better CPU 5700X3D 15k]
+    D --> E[Total Future Cost 66k]
