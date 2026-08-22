@@ -15,3 +15,5 @@
 cd ./Monitor-Research-Project
 # Initialize a new Git repository
 git init
+git add .
+git commit -m ..................
